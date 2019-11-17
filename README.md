@@ -10,11 +10,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-# Sorting Algorithms
+# Demo
 http://dreambuilder.cf/sorting
 
 
