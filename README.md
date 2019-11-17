@@ -1,4 +1,4 @@
-# sorting
+# Sorting Algorithms
 
 ## Project setup
 ```
@@ -14,16 +14,7 @@ npm run serve
 ```
 npm run build
 ```
+# Sorting Algorithms
+http://dreambuilder.cf/sorting
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
